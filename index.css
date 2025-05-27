@@ -47,6 +47,7 @@ button{
     color: #9AABD8;
     border-radius: 2px;
     background-color: transparent;
+    cursor: pointer;
 }
 h3{
     font-size: 40px;
